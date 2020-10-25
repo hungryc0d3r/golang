@@ -1,7 +1,4 @@
-                   #Go language notes
-  
-===============================================================
-
+#Go language notes
 Go language ==>intially developed by google in 2007
 
 it was developed by Robert Griesemer, Rob Pike, and Ken Thompson
