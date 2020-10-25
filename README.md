@@ -1,6 +1,5 @@
- --------------------------------------------------------------
                    #Go language notes
- --------------------------------------------------------------         
+  
 ===============================================================
 
 Go language ==>intially developed by google in 2007
@@ -16,56 +15,3 @@ Key Features:-
  $  package management
  $  powerful standard library
 
- ----------------------------------------------------------------
-                    #Go language Installation
- ----------------------------------------------------------------
- ===============Installing Golang from repository===============
-<-----kali linux----->
-
-==> sudo apt-get install -y golang
-
-After the installation process is done we need to configure a little bit in our .bashrc file
-
-==> sudo mousepad ~/.bashrc
-
-Then we paste these following paths at the end of .bashrc file
-
-# Golang paths in bashrc
-export GOROOT=/usr/local/go
-export GOPATH=$HOME/go
-export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
-
-Then we save and close .bashrc file.
-
-==> source .bashrc
-
-
-=====================Installing Golang Manually====================
-
-First we open a browser and go to the official download page of Golang to download it:
-
-Then we click in the Linux download 
-
-==> cd Downloads
-
-Then we type following command to extracts the files
-
-This command will extract the Golang in our /usr/local directory.
-
-==> tar -C /usr/local/ -xzf go*.tar.gz
-
-
-We need to add variables for Golang by modifying the ~/.bashrc file.
-
-==> sudo mousepad ~/.bashrc
-
-Then we paste these following paths at the end of .bashrc file
-
-# Golang paths in bashrc
-export GOROOT=/usr/local/go
-export GOPATH=$HOME/go
-export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
-
-Then we save and close .bashrc file. Then we reload and update the .bashrc 
-
-==> source ~/.bashrc
