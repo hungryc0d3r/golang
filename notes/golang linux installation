@@ -50,4 +50,3 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 Then we save and close .bashrc file. Then we reload and update the .bashrc 
 
 ==> source ~/.bashrc
-
