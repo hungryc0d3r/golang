@@ -1,0 +1,23 @@
+
+============Installing Golang from repository============
+
+
+<-----kali linux----->
+
+==> sudo apt-get install -y golang
+
+After the installation process is done we need to configure a little bit in our .bashrc file
+
+==> sudo mousepad ~/.bashrc
+
+Then we paste these following paths at the end of .bashrc file
+
+# Golang paths in bashrc
+export GOROOT=/usr/local/go
+export GOPATH=$HOME/go
+export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+
+Then we save and close .bashrc file.
+
+==> source .bashrc
+
