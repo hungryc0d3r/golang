@@ -1,6 +1,25 @@
-============Installing Golang from repository============
+ --------------------------------------------------------------
+                   Go language notes
+ --------------------------------------------------------------         
+===============================================================
 
+Go language ==>intially developed by google in 2007
 
+it was developed by Robert Griesemer, Rob Pike, and Ken Thompson
+
+Key Features:-
+
+ $  static typing
+ $  language design
+ $  testing support
+ $  platform independent
+ $  package management
+ $  powerful standard library
+
+ ----------------------------------------------------------------
+                    Go language Installation
+ ----------------------------------------------------------------
+ ===============Installing Golang from repository===============
 <-----kali linux----->
 
 ==> sudo apt-get install -y golang
@@ -21,7 +40,7 @@ Then we save and close .bashrc file.
 ==> source .bashrc
 
 
-=================Installing Golang Manually================
+=====================Installing Golang Manually====================
 
 First we open a browser and go to the official download page of Golang to download it:
 
