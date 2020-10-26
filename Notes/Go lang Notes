@@ -1,11 +1,1 @@
                         <==Go Language Notes==>
-
-# My First program
-
-   package main
-
-   import ("fmt")
-
-   func main(){
-         fmt.Println("Hello, World")
-   }
