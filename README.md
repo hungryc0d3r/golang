@@ -20,3 +20,7 @@ Key Features:-
  
  $  powerful standard library
 
+ $  fast compilation time
+
+ $  Garbage collection
+
