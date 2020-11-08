@@ -8,21 +8,21 @@
 
   Key Features:-
 
-   $  static typing
+    $  static typing
 
-   $  language design
+    $  language design
  
     $  testing support
  
-   $  platform independent
+    $  platform independent
  
-   $  package management
+    $  package management
  
-   $  powerful standard library
+    $  powerful standard library
 
-   $  fast compilation time
+    $  fast compilation time
 
-   $  Garbage collection
+    $  Garbage collection
 
 
  -----------------------------------------------------------------
