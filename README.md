@@ -6,23 +6,23 @@
 
  it was developed by Robert Griesemer, Rob Pike, and Ken Thompson
 
-Key Features:-
+  Key Features:-
 
-  $  static typing
-  
-  $  language design
- 
-  $  testing support
- 
-  $  platform independent
- 
-  $  package management
- 
-  $  powerful standard library
+   $  static typing
 
-  $  fast compilation time
+   $  language design
+ 
+    $  testing support
+ 
+   $  platform independent
+ 
+   $  package management
+ 
+   $  powerful standard library
 
-  $  Garbage collection
+   $  fast compilation time
+
+   $  Garbage collection
 
 
  -----------------------------------------------------------------
