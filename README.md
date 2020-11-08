@@ -24,3 +24,34 @@ Key Features:-
 
  $  Garbage collection
 
+
+ -----------------------------------------------------------------
+ Variables in Go
+
+ SYNTAX:-
+ 
+         var variable type
+         variable = value
+
+        var variable type = value
+
+        variable := value
+
+    We can't Redeclare them but we can shadow them
+
+    All variables must be used 
+
+    Visibility
+        lower case first letter for package scope
+        upper case first letter to export
+        no private scope 
+    
+    Naming conventions
+        Pascal or camelCasing
+          Capitalize acronyms(HTTP,URL)
+        As short as reasonable
+          longer names for longer lives
+
+    TypeConversions
+        destinationType(variable)
+        use strconv package for strings
