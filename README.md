@@ -55,3 +55,28 @@ Key Features:-
     TypeConversions
         destinationType(variable)
         use strconv package for strings
+
+
+ ----------------------------------------------------------------------
+                            Primitives
+ ----------------------------------------------------------------------
+
+    Boolean
+
+    Numeric types
+      integers
+      floating point
+      complex
+
+    Text types
+
+  --------------------------
+           Boolean
+  --------------------------
+      Syntax:- 
+
+            var variable bool = true/false
+                            (it is similar syntax as variables but the type will be the datatypes)
+  -> In Golang if we not initialize the value to the variable then it considers as false/0
+
+  
