@@ -79,3 +79,24 @@
                             (it is similar syntax as variables but the type will be the datatypes)
   -> In Golang if we not initialize the value to the variable then it considers as false/0
 
+  ----------------------------
+            Int DataType
+  ----------------------------
+
+       Signed integer v/s Unsigned integer
+         
+           int v/s uint 
+           int -> signed integer
+               types:- int8 | int16 | int32 | int64
+           uint -> unsigned integer
+               types:- uint8 | uint16 | uint64
+
+       we can use basic arithematic operations (+ - * / %)
+       Bit operators (& | ^ &^) 
+          & - and 
+          | - or   
+          ^ - not
+          &^ - and not
+       Bit Shifting (>> <<)
+          >>  - Bit shifting to right 
+          <<  - Bit shifting to left
