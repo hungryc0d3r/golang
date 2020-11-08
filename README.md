@@ -2,27 +2,27 @@
                            Golanguage
 ------------------------------------------------------------
 
-Go language ==>intially developed by google in 2007
+ Go language ==>intially developed by google in 2007
 
-it was developed by Robert Griesemer, Rob Pike, and Ken Thompson
+ it was developed by Robert Griesemer, Rob Pike, and Ken Thompson
 
 Key Features:-
 
- $  static typing
+  $  static typing
+  
+  $  language design
  
- $  language design
+  $  testing support
  
- $  testing support
+  $  platform independent
  
- $  platform independent
+  $  package management
  
- $  package management
- 
- $  powerful standard library
+  $  powerful standard library
 
- $  fast compilation time
+  $  fast compilation time
 
- $  Garbage collection
+  $  Garbage collection
 
 
  -----------------------------------------------------------------
@@ -79,4 +79,3 @@ Key Features:-
                             (it is similar syntax as variables but the type will be the datatypes)
   -> In Golang if we not initialize the value to the variable then it considers as false/0
 
-  
